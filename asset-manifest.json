@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useref_hook_example/static/css/main.f855e6bc.css",
+    "main.js": "/useref_hook_example/static/js/main.6e0db3df.js",
+    "index.html": "/useref_hook_example/index.html",
+    "main.f855e6bc.css.map": "/useref_hook_example/static/css/main.f855e6bc.css.map",
+    "main.6e0db3df.js.map": "/useref_hook_example/static/js/main.6e0db3df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6e0db3df.js"
+  ]
+}
